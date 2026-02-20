@@ -32,7 +32,7 @@ Complete UI/UX design for the AI Resume Builder including main pages, components
 Reusable UI components built with Auto Layout and structured variants for scalability and consistency.
 
 ![Experience Drop Down Button](Experience-Drop-Down-Button.png)
-![Resume Template #1 Hover Affect](Resume-Template-#1-Hover-Affect.png)
+![Resume Template Hover Affect](Resume-Template-#1-Hover-Affect.png)
 ![Resume Builder Page Slider Bar](Resume-Builder-Page-Slider-Bar.png)
 ![Resume Building Slider Bar](Resume-Building-Slider-Bar.png)
 ![Chatbot Button](Chatbot-Button.png)
